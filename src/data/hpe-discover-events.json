@@ -295,7 +295,7 @@
     "page": "HPE SimpliVity",
     "pageLink": "https://developer.hpe.com/platform/hpe-simplivity/home",
     "presentationlink": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/Discover_2019_HSC9719_SimpliVity_RESTAPI_Inject_User_Script.pdf",
-    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/simplivity-1529941739039.jpg",
+    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/hpe-dev-newstack-header-1509386464834-1.svg",
     "content": "Use the SimpliVity REST API to build a solution for pre-and-post backup script injection to enable backup life cycle management use cases. No registration required. Just show up and start coding."
   },
   {
@@ -306,7 +306,7 @@
     "page": "HPE SimpliVity",
     "pageLink": "https://developer.hpe.com/platform/hpe-simplivity/home",
     "presentationlink": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/Discover_2019_HSC9719_SimpliVity_RESTAPI_Backup_Script.pdf",
-    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/simplivity-1529941739039.jpg",
+    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/hpe-dev-platform-ilo-1509387772828.svg",
     "content": "Learn innovative ways of producing bulletproof backups using the HPE SimpliVity REST API. No registration required. Just show up and start coding."
   },
   {
@@ -358,7 +358,7 @@
     "page": "HPE Proliant for Microsoft Azure Stack",
     "pageLink": "https://developer.hpe.com/platform/hpe-proliant-for-microsoft-azure-stack/home",
     "presentationlink": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/Discover_2019_HSC9719_Azure_Stack_DevOps_Automation.pdf",
-    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/abstractlines_01_gm60-1536343691798.jpg",
+    "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/hpe-dev-portal-labs-1509995458037.svg",
     "content": "Explore the concept of using infrastructure as code to deploy application resources globally via Azure or Azure Stack. You’ll also learn how to integrate HPE Nimble solutions as external storage for virtual machines running on Azure Stack. No registration required. Just show up and start coding."
   }
 ]
