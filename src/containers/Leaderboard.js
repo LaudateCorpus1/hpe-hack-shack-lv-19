@@ -87,7 +87,7 @@ export default class Leaderboard extends Component {
                   className="name-column"
                 >
                   <Text color="dark-3" className="highscore-text">Name</Text>
-                  {hiScores.map((hiScore, index) => <Text key={index} margin={{ top: 'large', bottom: 'medium' }} color={colors[index]} className="highscore-text">{hiScore.name}</Text>)}
+                  {hiScores.map((hiScore, index) => <Text truncate key={index} margin={{ top: 'large', bottom: 'medium' }} color={colors[index]} className="highscore-text">{hiScore.name}</Text>)}
                 </Box>
                 <Box
                   align="end"
