@@ -361,6 +361,7 @@
     "track": "Hybrid Cloud ",
     "page": "HPE Converged Edge Systems & OT",
     "pageLink": "https://www.hpe.com/us/en/servers/edgeline-systems.html",
+    "presentationlink": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/Discover_2019_HSC9719_SimpliVity_RESTAPI_Backup_Script.pdf",
     "image": "https://hpe-developer-portal.s3.amazonaws.com/discover-lv19/img/hpe-dev-platform-ilo-1509387772828.svg",
     "content": "Using Kubernetes and Service Mesh, your challenge is to develop a solution to retrieve images from cameras on the edge while tolerating network variations (e.g. failures)."
   }
