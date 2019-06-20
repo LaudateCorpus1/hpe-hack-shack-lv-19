@@ -34,9 +34,6 @@ export default class HackShackCarousel extends Component {
               <Box align="center" background="accent-6">
                 <StyledCard src="./img/gremlincard.png" />
               </Box>
-              <Box align="center" background="#d16a37">
-                <StyledCard src="./img/beerbashcard.png" />
-              </Box>
             </Carousel>
           </Grommet>
         )}
