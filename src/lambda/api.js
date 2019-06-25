@@ -58,6 +58,20 @@ router.post('/user/create', (req, res) => {
   }
 });
 
+// Update User
+router.put('/user/update/:id', (req, res) => {
+  const { initials, name } = req.body;
+  let initialsProfanityCheck = filter.isProfane(initials);
+  let nameProfanityCheck = filter.isProfane(name);
+  if (initialsProfanityCheck || nameProfanityCheck) {
+    res.status(403).send('Profanity not allowed');
+  } else {
+    return User.findOneAndUpdate({_id:req.params.id},{$set:req.body},{new: true})
+      .then(user => res.send(user))
+      .catch(err => res.send(err));
+  }
+});
+
 // Delete all users
 // Use this route only when db cleanup required
 /*
