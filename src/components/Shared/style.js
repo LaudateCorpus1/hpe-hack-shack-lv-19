@@ -7,15 +7,15 @@ export const StyledImage = styled(Image)`
   width: 100%;
   height: auto;
   @media (orientation: landscape) {
-    max-width: 500px;
-}
+    width: 450px;
+  }
 `;
 
 export const StyledCard = styled(Image)`
   width: 100%;
   height: auto;
   @media (orientation: landscape) {
-  max-height: 1080px;
-  max-width: 650px;
-}
+    height: 105vh;
+    width: auto;
+  }
 `

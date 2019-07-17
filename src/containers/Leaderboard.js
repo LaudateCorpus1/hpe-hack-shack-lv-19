@@ -100,7 +100,7 @@ export default class Leaderboard extends Component {
                 </Box>
               </Box>
               {/* ItMonster image */}
-              <Box align="end" alignSelf="end" margin={{ top: 'large' }} width="large">
+              <Box className="it-monster-container" align="end" alignSelf="end" margin={{ top: 'large' }} width="large">
                 <StyledImage className="it-monster" src="./img/itmonster.png" />
               </Box>
             </Box>

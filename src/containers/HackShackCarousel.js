@@ -20,7 +20,7 @@ export default class HackShackCarousel extends Component {
     return (
       <Box align="center">
         { isLoaded && (
-          <Grommet full theme={theme}>
+          <Grommet full theme={theme} style={{ maxHeight: '100vh', overflow: 'hidden' }}>
             <Carousel play={10000}>
               <Leaderboard />
               <Box align="center" background="dark-1">

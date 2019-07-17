@@ -12,6 +12,13 @@ export const LeaderboardLayout = styled(Box)`
     height: 100%;
     width: 100%;
   }
+  .it-monster-container {
+    @media (orientation: landscape) {
+      position: absolute;
+      right: 0;
+      top: calc(100vh - 250px);
+    }
+  }
   .middle {
     display: table-cell;
     vertical-align: middle;
