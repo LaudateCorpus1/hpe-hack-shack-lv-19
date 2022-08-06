@@ -10,7 +10,7 @@
     "express": "^4.17.1",
     "grommet": "^2.7.1",
     "moment": "^2.24.0",
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-ga": "^2.5.7",
